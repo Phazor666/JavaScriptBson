@@ -1,4 +1,6 @@
 # JavaScriptBson
+# Version: Stable :)
+# Check "main.js" for the code
 Convert any JSON Object into an array of char streams. or handle and store more data in a cleaner way
 Here's all of the types and classes you're able to use within the JavaScript file
 BsonConverter -class  //bson object that you can use. lightweight with all of your properties and methods included.
